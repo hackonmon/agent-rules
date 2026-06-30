@@ -13,7 +13,6 @@
 
 </p>
 
-https://github.com/user-attachments/assets/852de2c7-b6eb-4acc-9610-493dc9912c72
 
 ## Why Open Source?
 
