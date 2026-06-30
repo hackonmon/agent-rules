@@ -2,7 +2,7 @@
 
 <img width="1983" height="793" alt="0f0acf14-94f9-4fc7-a95f-a5179ae14f57" src="https://github.com/user-attachments/assets/dce3d178-dd49-4c06-b639-6e4bd3908463" />
 
-> A production-style TypeScript trading bot that detects temporary pricing inefficiencies across connected Polymarket sports markets.
+> A polymarket trading bot that detects temporary pricing inefficiencies across connected Polymarket sports markets.
 
 <p align="center">
 
@@ -15,7 +15,7 @@
 
 ---
 
-<video align="right" width="350px" height="170px" alt="PolySports Demo" src="https://github.com/user-attachments/assets/d3ebe757-aab0-4234-9227-445bce2ee2d7" />
+https://github.com/user-attachments/assets/852de2c7-b6eb-4acc-9610-493dc9912c72
 
 ## Why Open Source?
 
