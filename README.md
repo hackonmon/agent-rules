@@ -11,9 +11,10 @@
 [![License](https://img.shields.io/badge/License-MIT-orange.svg)](#)
 [![Polymarket](https://img.shields.io/badge/Platform-Polymarket-6f42c1.svg)](#)
 
+
 </p>
 
-https://github.com/user-attachments/assets/70050ad5-d598-4328-8864-fe8930c185ed
+https://github.com/user-attachments/assets/40a78adc-e9b3-4ab2-a31d-8f4691648c8d
 
 ## Why Open Source?
 
